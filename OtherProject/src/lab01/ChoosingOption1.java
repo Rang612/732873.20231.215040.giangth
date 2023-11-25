@@ -1,3 +1,5 @@
+package lab01;
+
 import javax.swing.JOptionPane;
 public class ChoosingOption1 {
     public static void main(String[] args){

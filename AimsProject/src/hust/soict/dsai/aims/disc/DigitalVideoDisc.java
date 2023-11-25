@@ -1,3 +1,5 @@
+package hust.soict.dsai.aims.disc;
+
 //Tran Huong Giang 20215040
 public class DigitalVideoDisc {
     //Create the Digital Video Disc class and its attributes
@@ -6,7 +8,9 @@ public class DigitalVideoDisc {
     private String director;
     private int length;
     private float cost;
-    // Create accessors and mutators for the class DigitalVideoDisc
+    private static int nbDigitalVideoDiscs = 0;
+    private int id;
+    // Create accessors and mutators for the class hust.soict.dsai.aims.disc.DigitalVideoDisc
     public String getTitle() {
         return title;
     }
@@ -22,16 +26,25 @@ public class DigitalVideoDisc {
     public float getCost() {
         return cost;
     }
+    public int getId() {
+        return id;
+    }
+    public void setTitle(String title){this.title = title;}
     //Create constructor method
     public DigitalVideoDisc(String title) {
         super();
         this.title = title;
+        nbDigitalVideoDiscs++;
+        this.id = nbDigitalVideoDiscs;
     }
+
     public DigitalVideoDisc(String title, String category, float cost) {
         super();
         this.title = title;
         this.category = category;
         this.cost = cost;
+        nbDigitalVideoDiscs++;
+        this.id = nbDigitalVideoDiscs;
     }
     public DigitalVideoDisc(String title, String category, String director, float cost) {
         super();
@@ -39,6 +52,8 @@ public class DigitalVideoDisc {
         this.category = category;
         this.director = director;
         this.cost = cost;
+        nbDigitalVideoDiscs++;
+        this.id = nbDigitalVideoDiscs;
     }
     public DigitalVideoDisc(String title, String category, String director, int length, float cost) {
         super();
@@ -47,5 +62,15 @@ public class DigitalVideoDisc {
         this.director = director;
         this.length = length;
         this.cost = cost;
+        nbDigitalVideoDiscs++;
+        this.id = nbDigitalVideoDiscs;
+    }
+    public String toString(){
+        return "DVD-"+title+"-"+category+"-"+director+"-"+length+":"+cost+"$";
+    }
+
+    // Hàm kiểm tra xem title nhập vào có trùng với title trong giỏ hàng không
+    public boolean isMatch(String title) {
+        return this.getTitle().equals(title);
     }
 }

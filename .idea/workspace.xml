@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f31abe4-7e57-447b-8ea0-1d98facfaeee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,9 +56,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "refactor/apply-release-flow",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "D:/IT3130.732873.2023.1.215040.giangth/AimsProject",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "D:/IT3130.732873.2023.1.215040.giangth",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +68,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -57,7 +78,7 @@
       <recent name="D:\IT3130.732873.2023.1.215040.giangth\OtherProject\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConcatenationInLoops">
+  <component name="RunManager" selected="Application.CartTest">
     <configuration name="Aims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab02.Aims" />
       <module name="IT3130.732873.2023.1.215040.giangth" />
@@ -84,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CartTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.test.cart.CartTest" />
+      <module name="AimsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.soict.dsai.test.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConcatenationInLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hust.soict.hedspii.garbage.ConcatenationInLoops" />
       <module name="IT3130.732873.2023.1.215040.giangth" />
@@ -99,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CartTest" />
         <item itemvalue="Application.ConcatenationInLoops" />
         <item itemvalue="Application.Aims" />
         <item itemvalue="Application.Array" />
@@ -130,6 +165,9 @@
       <workItem from="1701189650845" duration="11000" />
       <workItem from="1701189737384" duration="110000" />
       <workItem from="1701189891720" duration="46000" />
+      <workItem from="1701706120244" duration="259000" />
+      <workItem from="1701706425932" duration="3337000" />
+      <workItem from="1701790846601" duration="693000" />
     </task>
     <servers />
   </component>

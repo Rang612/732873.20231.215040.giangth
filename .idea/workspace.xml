@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f31abe4-7e57-447b-8ea0-1d98facfaeee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/aims/store/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OtherProject/src/lab02/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProject/src/lab02/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT3130.732873.2023.1.215040.giangth/hust/soict/dsai/aims/cart/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IT3130.732873.2023.1.215040.giangth/hust/soict/dsai/aims/cart/Cart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT3130.732873.2023.1.215040.giangth/hust/soict/dsai/aims/disc/DigitalVideoDisc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IT3130.732873.2023.1.215040.giangth/hust/soict/dsai/aims/disc/DigitalVideoDisc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT3130.732873.2023.1.215040.giangth/hust/soict/dsai/aims/store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IT3130.732873.2023.1.215040.giangth/hust/soict/dsai/aims/store/Store.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT3130.732873.2023.1.215040.giangth/hust/soict/hedspii/garbage/NoGarbage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IT3130.732873.2023.1.215040.giangth/hust/soict/hedspii/garbage/NoGarbage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab04&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/selenium-testng-java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -61,14 +51,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT3130.732873.2023.1.215040.giangth\AimsProject\Design" />
       <recent name="D:\IT3130.732873.2023.1.215040.giangth\AimsProject\src\hust\soict\dsai\test\media" />
       <recent name="D:\IT3130.732873.2023.1.215040.giangth\AimsProject\src\hust\soict\dsai\aims\media" />
       <recent name="D:\IT3130.732873.2023.1.215040.giangth\AimsProject\src\hust\soict\dsai" />
-      <recent name="D:\IT3130.732873.2023.1.215040.giangth\AimsProject\Design" />
       <recent name="D:\IT3130.732873.2023.1.215040.giangth\OtherProject\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Aims">
     <configuration name="Aims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab02.Aims" />
       <module name="IT3130.732873.2023.1.215040.giangth" />
@@ -139,6 +129,8 @@
       <workItem from="1701182467333" duration="4387000" />
       <workItem from="1701793349139" duration="1066000" />
       <workItem from="1701822243835" duration="12784000" />
+      <workItem from="1701880712404" duration="861000" />
+      <workItem from="1702213733231" duration="150000" />
     </task>
     <servers />
   </component>
